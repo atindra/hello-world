@@ -1,15 +1,9 @@
 {
-  "name": "hello-world",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "Elastic-Beanstalk-Sample-App",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.19.2"
+    "start": "node app.js"
   }
 }
